@@ -2,7 +2,7 @@
 
 A LAN-based, distributed file-share application using IPv6 multicast for discovery and control messaging, with TCP/IPv6 for file transfers. 
 
-This is the practical assignment P2 for Course Advanced Communication Networks & Systems at the University of St Andrews.
+This is a coursework for Course Advanced Communication Networks & Systems at the University of St Andrews.
 
 ## Overview
 
@@ -25,7 +25,6 @@ Details of protocol design, see [protocol_specification.txt](./protocol_specific
 Edit `config/configuration.properties`.
 
 ### Compile:
-Change directory to code, and use command line:
 ```bash
 find src -name "*.java" | xargs javac -d out
 ```
