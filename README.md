@@ -48,7 +48,7 @@ Commands:
 ## Project Structure
 
 ```
-code
+lan-multicast-fileshare
 ├── README.md 					 # Project overview and instructions
 ├── config                       # Configuration files for the project
 ├── cs4105_p2_protocol_specification.txt  		# Protocol specification details
